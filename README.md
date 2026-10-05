@@ -1,4 +1,4 @@
-# Superstore_Sales_Data_Analysis
+# superstore-sales-profitability-analysis
 This project analyzes historical sales data from a global retail superstore to understand sales performance across products, regions, and customer segments.
 
 📊 Sales Performance & Profitability Analysis
